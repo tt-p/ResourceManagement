@@ -1,0 +1,6 @@
+"2001"	"Steel Ingot"	"RAW_MAREIAL"	"weight=500kg"	"width=6cm"	"depth=12cm"	"height=3cm"
+"2002"	"1C Iron Stick"	"METAL"	"length=80.0cm"	"diameter=3cm"
+"2003"	"20v Screw"	"TOOL"	"head=square"	"pack=120piece"	"length=58.0mm"
+"2004"	"Mini Radio"	"ELECTRONIC"	"brand=philips"
+"2005"	"Strip Separator"	"MACHINE"
+"2006"	"Water Jet Cutting Machine"	"MACHINE"
